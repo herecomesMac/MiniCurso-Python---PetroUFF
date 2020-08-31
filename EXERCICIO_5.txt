@@ -1,0 +1,4 @@
+**************************** QUESTÃO 1 **************************** 
+
+Crie uma função que receba um número n inteiro positivo como parâmetro, este inteiro positivo deve ser pedido ao usuário
+e retorne a soma de todos os inteiros positivos até n.

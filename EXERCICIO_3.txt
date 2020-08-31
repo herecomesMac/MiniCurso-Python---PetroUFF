@@ -1,0 +1,8 @@
+**************************** QUESTÃO 1 **************************** 
+
+Faça um programa que calcule o fatorial de um número inserido pelo usuário.
+
+
+**************************** QUESTÃO 2 **************************** 
+Faça um programa que leia n valores inseridos pelo usuário e calcule a soma de seus quadrados. 
+(ex.: Se o usuário quiser inserir 4 valores e estes sejam: 2, 3, 4 e 5. A saída deverá ser: 54, isto é, 2² + 3² + 4² + 5²).

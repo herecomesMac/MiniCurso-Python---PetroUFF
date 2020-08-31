@@ -1,0 +1,7 @@
+**************************** QUESTÃO 1 **************************** 
+
+Faça um programa que receba uma entrada em graus Celsius e retorne o equivalente em graus Fahrenheit.
+
+**************************** QUESTÃO 2 **************************** 
+
+Faça um programa que leia 3 números reais e retorne sua média, divisão inteira e o resto de sua divisão.

@@ -1,0 +1,8 @@
+**************************** QUESTÃO 1 **************************** 
+
+Faça um programa que leia dois vetores de 3 posições, que representam forças sobre um ponto no espaço 3D, e escreva a força resultante.
+Dica: força resultante é a soma de todos os valores das coordenadas correspondentes nos dois vetores: (x1+x2), (y1+y2), (z1+z2)
+
+**************************** QUESTÃO 2 **************************** 
+
+Faça um programa que leia duas matrizes 2x2 e imprima a sua soma.
