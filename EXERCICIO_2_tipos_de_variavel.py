@@ -2,7 +2,7 @@
 **************************** QUESTÃO 1 **************************** 
 
 Raciocínio:
-A fórmula para conversão de Celcius para Fahrenheit é:
+A fórmula para conversão de Celsius para Fahrenheit é:
 ( x°C * 9/5) + 32
 Logo, Recebemos a temperatura em Celsius do teclado. 
 Calcular o grau em Celsius com a fórmula 
