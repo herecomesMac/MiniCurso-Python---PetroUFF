@@ -18,7 +18,7 @@ Podemos fazer esse exercício tanto com while, quanto com for. Vamos fazer com o
 '''
 
 ############### While ###############
-'''
+
 num = int(input("Digite o valor: "))            #Entrada de dados sendo salva na variável num
 
 print("O fatorial de ", num)                    #Printo o valor de entrada agora, pois vou perdê-lo no decorrer do código
@@ -39,7 +39,7 @@ fatorial = 1                                    #Inicio a variavel fatorial para
 for i in range(num, 1, -1):                     #Para todos os valores dentro do alcance de [num , 1], eu faço o código indentado. Após o código identado ser realizado, eu incremento num de -1, ou seja, subtraio 1 de num.
     fatorial = fatorial * i                     #Multiplico o fatorial (que guarda o valor anteiror) pelo valor na variável num                 
 print("é", fatorial)                            #Printo o resultado final da variável fatorial
-'''
+
 '''
 **************************** QUESTÃO 2 **************************** 
 Raciocínio:
