@@ -10,11 +10,11 @@ Printar na tela a temperatura em Fahrenheit.
 
 '''
 
-
+'''
 celsius = float(input("Digite a temperatura em Celcius: "))                     #Entrada de dados sendo salva na variável celsius
 fahrenheit = (celsius * (9/5)) + 32                                             #Fórmula para converter de Celsius para Fahrenheit e salvando o resultado na variável fahrenheit
 print("A temperatura ", celsius, "em Celsius é ", fahrenheit, "em Fahrenheit")  #Printamos na tela os resultados
-
+'''
 
 '''
 **************************** QUESTÃO 2 **************************** 
@@ -33,10 +33,10 @@ valor_2 = float(input("Digite o segundo valor: "))                          #Ent
 valor_3 = float(input("Digite o terceiro valor: "))                         #Entrada de dados sendo salva na variável valor_3
 
 
-                                                                            #Os parentêses funcionam como na Matemática, dando prioridade para a operação dentro deles.
-media = (valor_1 + valor_2 + valor_3) / 3                                   #Cálculo da Média sendo salvo na variável media
-media_inteira = (valor_1 + valor_2 + valor_3) // 3                          #Cálculo da Média Inteira sendo salvo na variável media_inteira
-resto = (valor_1 + valor_2 + valor_3) % 3                                   #Cálculo do Resto da Média Inteira sendo salvo na variável resto
+soma = valor_1 + valor_2 + valor_3                                                                     #Os parentêses funcionam como na Matemática, dando prioridade para a operação dentro deles.
+media = soma / 3                                   #Cálculo da Média sendo salvo na variável media
+media_inteira = soma // 3                          #Cálculo da Média Inteira sendo salvo na variável media_inteira
+resto = soma % 3                                   #Cálculo do Resto da Média Inteira sendo salvo na variável resto
 
 
 print("Media: ", media)                                                     #Printamos a Média
